@@ -10,4 +10,4 @@ _Now Bot Mode Available 😍_
 - `TOKEN` You Need to Add Bot to `LOG_GROUP`
 
 **Deploy**
-[Click Here](https://heroku.com/deploy?template=https://github.com/AnjanaMadu/xforce-scrapper)
+[Click Here](https://heroku.com/deploy?template=https://github.com/PhantasmBoy/xforce-scrapper)
