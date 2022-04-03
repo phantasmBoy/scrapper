@@ -1,0 +1,38 @@
+{
+    "name": "Xforce Scapper",
+    "description": "Nothing Here",
+    "repository": "https://github.com/AnjanaMadu/xforce-scrapper/",
+    "env": {
+        "API_ID": {
+            "description": "Your API_ID from my.telegram.org",
+            "required": "True"
+        },
+        "API_HASH": {
+            "description": "Your API Hash from my.telegram.org",
+            "required": "True"
+        },
+        "LOG_GROUP": {
+            "description": "Your private group to log ccs (need chat id)",
+            "required": "True"
+        },
+        "CHATS": {
+            "description": "Chats to get ccs. (seperate chat ids by space)",
+            "required": "True"
+        },
+        "TOKEN": {
+            "description": "Your bot token & bot should admin at log group",
+            "required": "True"
+        },
+        "SESSION": {
+            "description": "Your Telethon session. generate using tss.anjanamadu.com and select telethon",
+            "required": "True"
+        }
+    },
+    "stack": "heroku-20",
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "free"
+        }
+    }
+}
