@@ -6,7 +6,7 @@ _Now Bot Mode Available 😍_
 - `API_ID` Your API ID
 - `API_HASH` Your API Hash
 - `LOG_GROUP` CCs Where Should Store
-- `SESSION` [Click Here](https://replit.com/@AnjanaMadu/GenerateStringSession) for Telethon Session Generator.
+- `SESSION` [Click Here](https://replit.com/@PhantasmBoy/GenerateStringSession) for Telethon Session Generator.
 - `TOKEN` You Need to Add Bot to `LOG_GROUP`
 
 **Deploy**
